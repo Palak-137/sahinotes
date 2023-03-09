@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sahinotes/static/css/main.5ce11c61.css",
+    "main.js": "/sahinotes/static/js/main.520e24d4.js",
+    "static/js/787.cda612ba.chunk.js": "/sahinotes/static/js/787.cda612ba.chunk.js",
+    "static/media/large-notes.png": "/sahinotes/static/media/large-notes.0dd4a70e0834f8bd0480.png",
+    "static/media/image1.png": "/sahinotes/static/media/image1.a4ead52694af4e20dd2f.png",
+    "static/media/img1.png": "/sahinotes/static/media/img1.a7cc653490ef1db87888.png",
+    "static/media/img2.png": "/sahinotes/static/media/img2.a7cc653490ef1db87888.png",
+    "static/media/img3.png": "/sahinotes/static/media/img3.a7cc653490ef1db87888.png",
+    "static/media/logo.svg": "/sahinotes/static/media/logo.9d3d17deec8ed29a3f38e8a4021afb53.svg",
+    "index.html": "/sahinotes/index.html",
+    "main.5ce11c61.css.map": "/sahinotes/static/css/main.5ce11c61.css.map",
+    "main.520e24d4.js.map": "/sahinotes/static/js/main.520e24d4.js.map",
+    "787.cda612ba.chunk.js.map": "/sahinotes/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce11c61.css",
+    "static/js/main.520e24d4.js"
+  ]
+}
